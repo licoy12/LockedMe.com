@@ -14,7 +14,7 @@ Sprint Duration: 1 week
 
 ******************
 
-## Sprint 1:
+## Sprint 1: (Planning and design how to approach the task)
 - Build flow chart
 - Build welcome screen
 - Add app name and developer details
@@ -23,7 +23,7 @@ Sprint Duration: 1 week
 - Support closing the application
 
 
-## Sprint 2:
+## Sprint 2: (Must have running app by end of sprint)
 - Add option 1 in main menu (Show files in ascending order)
 - Show option 2 (file operations)
 - Show File operations menu
