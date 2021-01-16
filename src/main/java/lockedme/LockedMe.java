@@ -82,7 +82,6 @@ public class LockedMe implements DisplayOperations, BusinessLevelOperations {
 			System.out.println("This directory doesn't have any file");
 			return;
 		}
-//		files = new File(FOLDER).listFiles();
 		System.out.println("Showing files in ascending order. . .");
 		System.out.println("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
 		for (File file : files) {
